@@ -1,0 +1,2 @@
+# wondows10_docker_lnmp
+在windows10下用docker搭建lnmp的镜像
